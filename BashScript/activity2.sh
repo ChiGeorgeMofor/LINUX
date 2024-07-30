@@ -3,7 +3,7 @@
 # An activity which prints a random word, allows user to specify number of random words...
 
 # Function to get the word list file path
-get_word_list() {
+get_word_list() {   
     if [ -f "/usr/share/dict/words" ]; then
         echo "/usr/share/dict/words"
     elif [ -f "/usr/dict/words" ]; then
