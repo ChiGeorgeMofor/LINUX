@@ -1,6 +1,6 @@
 #!/bin/bash
 # Demonstrate how read actually works
-
+ 
 echo What cars do you like?
 
 read car1 car2 car3
