@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 # Checking if there are any arguments
 if [ "$#" -eq 0 ]; then 
 	echo "No arguments provided."
