@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ask the user for login details
-
+ 
 read -p 'Username: ' uservar
 read -sp 'Password: ' passvar
 echo
