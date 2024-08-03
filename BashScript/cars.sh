@@ -4,7 +4,7 @@
 echo What cars do you like?
 
 read car1 car2 car3
- 
+  
 echo
 
 echo Your first car was: $car1.
