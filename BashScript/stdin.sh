@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 # Script to print the 3rd line from STDIN
 
 # Check if input is provided via STDIN
