@@ -1,6 +1,6 @@
 #!/bin/bash
 # A simple menu system
-
+ 
 names='Kyle Cartman Stan Quit'
 
 PS3='Select character: '
