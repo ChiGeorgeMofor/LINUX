@@ -1,6 +1,6 @@
 #!/bin/bash
 # demonstrate variable scope 1.
-
+ 
 var1=blah
 var2=foo
 
