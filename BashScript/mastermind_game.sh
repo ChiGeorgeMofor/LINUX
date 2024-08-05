@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 # Function to generate a random code of given length from a given character set
 generate_code(){
 	local length=$1
