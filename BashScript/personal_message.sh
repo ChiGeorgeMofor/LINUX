@@ -1,5 +1,5 @@
 #!/bin/bash
- 
+  
 # Function to display a message with user input, command line arguments, and system variables
 generate_message() {
     # Ask for user input
