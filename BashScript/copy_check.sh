@@ -1,6 +1,6 @@
 #!/bin/bash
 # Make a backup set of files
-  
+   
 for value in $1/*
 do
 	if [ ! -r $value ]
