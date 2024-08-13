@@ -1,6 +1,6 @@
 #!/bin/bash
 # Basic arithmetic using double parenthesis
-
+ 
 a=$(( 4 + 3 ))
 echo $a 
     
