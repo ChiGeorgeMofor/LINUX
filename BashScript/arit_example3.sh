@@ -1,6 +1,6 @@
 #!/bin/bash
 # Show the length of a variable
-
+ 
 a='Hello World'
 echo ${#a} 
    
