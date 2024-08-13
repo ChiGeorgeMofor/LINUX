@@ -4,7 +4,7 @@
 if [ "$#" -eq 0 ]; then 
 	echo "No arguments provided."
 	exit 1
-fi
+fi 
       
 # Get the number of arguments
 num_args="$#"
