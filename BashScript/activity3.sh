@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 # Activity that will take a filename as its first argument and create a dated copy of the file
   
 # Check if a filename argument was provided
