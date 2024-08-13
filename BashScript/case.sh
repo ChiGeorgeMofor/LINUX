@@ -1,5 +1,5 @@
 #!/bin/bash
-# case example
+# case example 
     
 case $1 in
 	start)
