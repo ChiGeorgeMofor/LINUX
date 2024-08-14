@@ -2,7 +2,7 @@
 # demonstrate variable scope 1.
  
 var1=blah
-var2=foo
+var2=foo 
  
 # Let's verify their current value
 
