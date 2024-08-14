@@ -7,7 +7,7 @@ if [ $# -ne 1 ]; then
 fi
 # Get the directory from the command line argument
 dir=$1
-
+ 
 # Check if the provided argument is a valid directory
 if [ ! -d "$dir" ]; then
 	echo "Error: '$dir' is not a valid directory."
