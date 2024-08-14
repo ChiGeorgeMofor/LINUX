@@ -1,5 +1,5 @@
 #!/bin/bash
- 
+   
 # Initialize the board
 board=('_' '_' '_' '_' '_' '_' '_' '_' '_')
 
