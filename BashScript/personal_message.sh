@@ -7,7 +7,7 @@ generate_message() {
     read -p 'Enter your favorite color: ' color
     read -p 'Enter your location: ' location
 
-    # Get command line arguments
+    # Get command line arguments 
     arg1=${1:-"No argument provided"}
     arg2=${2:-"No second argument provided"}
 
