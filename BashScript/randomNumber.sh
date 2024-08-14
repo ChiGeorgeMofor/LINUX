@@ -5,7 +5,7 @@ if [ "$#" -lt 1 ]; then
     echo "Usage: $0 <upper_limit> [lower_limit]"
     exit 1
 fi
-
+ 
 # Assign command-line arguments to variables
 upper_limit=$1
 lower_limit=${2:-0}
