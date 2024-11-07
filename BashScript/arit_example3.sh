@@ -4,5 +4,5 @@
 a='Hello World'
 echo ${#a} 
    
-b=4953
+b=4953 
 echo ${#b}
