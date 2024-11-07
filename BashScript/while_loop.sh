@@ -4,7 +4,7 @@
 counter= 1
 while [ $counter -le 10 ]
 do
-	echo $counter
+	echo $counter 
 	((counter++))
 done
 
