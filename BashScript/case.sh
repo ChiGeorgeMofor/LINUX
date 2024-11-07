@@ -1,7 +1,7 @@
 #!/bin/bash
 # case example 
     
-case $1 in
+case $1 in 
 	start)
 		echo starting
 		;;
