@@ -6,7 +6,7 @@ echo $a
     
 a=$((3+5))
 echo $a
-
+ 
 b=$(( a + 3 ))
 echo $b
 
