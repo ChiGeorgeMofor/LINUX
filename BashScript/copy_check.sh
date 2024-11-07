@@ -2,7 +2,7 @@
 # Make a backup set of files
    
 for value in $1/*
-do
+do 
 	if [ ! -r $value ]
 	then
 		echo $value not readable 1>&2
