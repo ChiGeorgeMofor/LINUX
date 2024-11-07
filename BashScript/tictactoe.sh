@@ -2,7 +2,7 @@
    
 # Initialize the board
 board=('_' '_' '_' '_' '_' '_' '_' '_' '_')
-
+ 
 # Function to display the board
 display_board() {
     echo " ${board[0]} | ${board[1]} | ${board[2]} "
