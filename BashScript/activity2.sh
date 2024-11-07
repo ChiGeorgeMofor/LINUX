@@ -1,5 +1,5 @@
 #!/bin/bash
-  
+   
 # An activity which prints a random word, allows user to specify number of random words...
       
 # Function to get the word list file path
@@ -10,7 +10,7 @@ get_word_list() {
         echo "/usr/dict/words"
     else
         echo ""
-    fi
+    fi 
 }
 
 # Get the word list file path
