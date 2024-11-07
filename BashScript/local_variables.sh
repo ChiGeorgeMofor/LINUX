@@ -1,7 +1,7 @@
 #!/bin/bash
 # Experimenting with variable scope
 
-var_change () {
+var_change () { 
     local var1='local 1'
     echo Inside function: var1 is $var1 : var2 is $var2
     var1='changed again'
