@@ -3,7 +3,7 @@
 # Function to generate a random code of given length from a given character set
 generate_code(){
 	local length=$1
-	local charset=$2
+	local charset=$2 
 	local code=""
 	local charset_length=${#charset}
 
