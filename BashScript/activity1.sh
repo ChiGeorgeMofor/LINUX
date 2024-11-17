@@ -6,7 +6,7 @@ if [ "$#" -eq 0 ]; then
 	exit 1
 fi 
       
-# Get the number of arguments
+# Get the number of arguments 
 num_args="$#"
 echo "Number of arguments: $num_args"
 
