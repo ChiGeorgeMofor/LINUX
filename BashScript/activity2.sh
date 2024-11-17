@@ -4,7 +4,7 @@
       
 # Function to get the word list file path
 get_word_list() {   
-    if [ -f "/usr/share/dict/words" ]; then
+    if [ -f "/usr/share/dict/words" ]; then 
         echo "/usr/share/dict/words"
     elif [ -f "/usr/dict/words" ]; then
         echo "/usr/dict/words"
