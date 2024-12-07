@@ -4,7 +4,7 @@
 for value in $1/*
 do 
 	if [ ! -r $value ]
-	then
+	then 
 		echo $value not readable 1>&2
 		continue
 	fi
