@@ -1,6 +1,6 @@
 #!/bin/bash
 # Print message in center of terminal
-  
+   
 cols=$( tput cols )
 rows=$( tput lines )
 
