@@ -1,5 +1,5 @@
 #!/bin/bash
-   
+    
 # An activity which prints a random word, allows user to specify number of random words...
       
 # Function to get the word list file path
